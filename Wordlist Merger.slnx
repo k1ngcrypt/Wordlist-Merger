@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Wordlist Merger/Wordlist Merger.vcxproj" Id="539d8e6a-f002-4c77-8060-d41bec451a35" />
+</Solution>
